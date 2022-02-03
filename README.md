@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Oliver, an aspiring Frontend Developer & DLT Enthusiast
 
 - I'm currently in the process of updating my JavaScript based DLT wallet analyzer with React (Check it out [here](../../../whenHold))
-- Learning React.js and Node.js
+- Learning React.js, Node.js and Express
 - Looking to learn Golang, Solidity in the near future
 - Reach me on email at thornow11@gmail.com
 - Instagram: [@othorn1](https://www.instagram.com/othorn1/)
