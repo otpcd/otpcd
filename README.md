@@ -18,9 +18,7 @@
     <img align="left" alt="React" width="40px" src="https://www.pngrepo.com/png/354259/512/react.png" />
 </div>
 
-<br/>
-
-## GitHub Stats ##
+<br/><br/>
 
 
 
