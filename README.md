@@ -1,6 +1,6 @@
-### Hi there 👋  I'm Oliver, an aspiring Frontend Developer & DLT Enthusiast
+### Hi there 👋
 
-- I'm currently in the process of updating my JavaScript based DLT wallet analyzer with React (Check out v1 [here](../../../whenHold))
+- Currently in the process of updating my JavaScript based DLT wallet analyzer with React (Check out v1 [here](../../../whenHold))
 - Learning React.js, Node.js and Express
 - Looking to learn Golang, Solidity in the near future
 - Reach me on email at thornow11@gmail.com
